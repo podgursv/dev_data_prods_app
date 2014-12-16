@@ -7,3 +7,4 @@ The app is at: https://podgursv.shinyapps.io/project_1
 
 Slides viewable at:  http://podgursv.github.io/dev_data_prods
 
+Slides are at:  https://github.com/podgursv/dev_data_prods
